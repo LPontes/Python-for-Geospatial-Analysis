@@ -1,0 +1,10 @@
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND0.tif?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND0.xml?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND1.tif?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND1.xml?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND2.tif?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND2.xml?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND3.tif?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND3.xml?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND4.tif?email=lucas.pontes@agrotools.com.br 
+http://www2.dgi.inpe.br/api/download/TIFF/CBERS4A/2023_04/CBERS_4A_WPM_RAW_2023_04_12.13_36_30_ETC2/204_143_0/2_BC_UTM_WGS84/CBERS_4A_WPM_20230412_204_143_L2_BAND4.xml?email=lucas.pontes@agrotools.com.br 
